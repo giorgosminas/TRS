@@ -1,0 +1,13 @@
+source,interaction,target
+FLC-n,lit,SOC1
+SVP-n,lit,SOC1
+SOC1-n,lit,SOC1
+SOC1-n,lit,AGL24
+SOC1-n,lit,LFY
+AGL24-n,lit,SOC1
+AGL24-n,lit,LFY
+LFY-n,lit,FD
+LFY-n,lit,AP1
+FT-n,lit,SOC1
+FD-n,lit,AP1
+AP1-n,lit,LFY
